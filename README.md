@@ -2,7 +2,7 @@
 
 Engenheiro eletricista e matemático, mestre em Computação Aplicada. Trabalho com diagnóstico de falhas, confiabilidade e manutenção preditiva de ativos elétricos e rotativos, e desenvolvo os sistemas que aplicam esse conhecimento em produção.
 
-Atualmente sou cofundador da Smart Asset Control, onde respondo pela arquitetura e pelo desenvolvimento da plataforma. Antes, fui engenheiro de aplicação na Dynamox, com diagnóstico por análise de vibração em campo, e Product Owner da plataforma de gestão de frotas de motores da WEG.
+Atualmente sou cofundador da Smart Asset Control, onde respondo pela arquitetura e pelo desenvolvimento da plataforma. Minha trajetória inclui atuação como engenheiro de aplicação na Dynamox, com diagnóstico por análise de vibração em campo, e Product Owner da plataforma de gestão de frotas de motores da WEG.
 
 Curitiba, PR · [LinkedIn](https://www.linkedin.com/in/cleverson-passos-m-sc-2b04383a/) · Português, inglês e espanhol
 
